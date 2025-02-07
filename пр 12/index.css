@@ -1,0 +1,45 @@
+.ul3 {
+    width: 200px;
+    height: 200px;
+	padding: 30px;
+	border: 1px solid red;
+}
+.li3 {
+	list-style-type: none;
+	margin-bottom: 20px;
+	border: 1px dashed black;
+}
+.one {
+    width: 200px;
+    height: 200px;
+    justify-items: center;
+    align-content: center;
+    background-color: blue;
+}
+.two {
+    width: 150px;
+    height: 150px;
+    justify-items: center;
+    align-content: center;
+    background-color: red;
+}
+.three {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+}
+.div10, .ul10, .li10 {
+    padding: 20px;
+}
+.div10 {
+    border: 1px solid red;
+    width: 100px;
+    height: 300px;
+}
+.ul10 {
+    border: 1px solid orange;
+}
+.li10 {
+    list-style-type: none;
+    border: 1px solid green;
+}
